@@ -6,4 +6,4 @@
 	url = https://github.com/unittest-cpp/unittest-cpp.git
 [submodule "third-party/NSPlist"]
 	path = third-party/NSPlist
-	url = https://github.com/Microsoft/NSPlist.git
+	url = git@github.com:sjmulder/NSPlist.git
